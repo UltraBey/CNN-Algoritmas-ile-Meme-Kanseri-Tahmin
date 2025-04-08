@@ -1,1 +1,1 @@
-# CNN-Algoritmas-ile-Meme-Kanseri-Tahmin
+# CNN-Algoritması-ile-Meme-Kanseri-Tahmin
